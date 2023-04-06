@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sami
+- 👋 Hi, I’m @Samantha Buitrón 
 - 👀 I’m interested in work with a company with which I can hone my current knowledge.
 - 🌱 I’m currently learning languaje C.
 - 💞️ I’m looking to collaborate on a project of apps web.
